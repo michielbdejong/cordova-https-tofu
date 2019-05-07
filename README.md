@@ -1,5 +1,7 @@
 # PhoneGap SSL Certificate Checker plugin (iOS, Android, Windows Universal)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/michielbdejong/cordova-https-tofu.svg)](https://greenkeeper.io/)
+
 by [Eddy Verbruggen](http://www.x-services.nl)
 for PhoneGap 3.0.0 and up.
 
